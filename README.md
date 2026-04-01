@@ -10,7 +10,7 @@
 
 ## 🔗 Links
 
-- [LinkedIn](#https://www.linkedin.com/in/bruno-guieiro-lessa-5bb430391/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-guieiro-lessa-5bb430391/) 
 - 📧 Email: **lessabrunoguieiro@gmail.com**
 
 ---
