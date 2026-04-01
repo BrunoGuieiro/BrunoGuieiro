@@ -4,7 +4,7 @@
 
 ---
 
-- **Linguagens:** JavaScript, Python, MySQL, C#, React, Dart/Flutter, Swift & Kotlin
+- **Linguagens:** JavaScript, Python, MySQL, C#, React, Dart/Flutter, Swift & Kotlin(aprendendo)
 
 ---
 
