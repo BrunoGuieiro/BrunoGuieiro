@@ -1,12 +1,10 @@
 # Bruno Guieiro
 
 💻 Desenvolvedor Full Stack
-🚀 Atualmente em busca de portunidade de estágio 
 
 ---
 
 - **Linguagens:** JavaScript, Python, MySQL, C#, React, Dart/Flutter, Swift & Kotlin
-- **Ferramentas:** Visual Studio Code, GitHub, Visual Studio
 
 ---
 
